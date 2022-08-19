@@ -1,0 +1,16 @@
+<div class="container">
+    <h1 class="py-5">Zum Testsieger wechseln und bis zu 40% sparen: unseere private Haftpflichtversicherung</h1>
+    <div class="content-container">
+        <div class="row mb-5">
+            <div class="col-4 p-3 mb-5" *ngFor="let obj of bodyData">
+                <div class="card h-100 text-center">
+                    <img [src]="obj.imgURL" class="card-img-top mx-auto" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">{{obj.title}}</h5>
+                        <p class="card-text">{{obj.description}}</p>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+</div>

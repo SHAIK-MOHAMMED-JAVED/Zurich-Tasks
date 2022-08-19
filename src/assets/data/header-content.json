@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kfz-Versicherung",
+    "options": ["options", "list options"]
+  },
+  {
+    "name": "Zahnzusatzversicherung",
+    "options": ["options", "list options"]
+  },
+  {
+    "name": "Tierversicherung",
+    "options": ["options", "list options"]
+  },
+  {
+    "name": "Haus & Familie",
+    "options": ["options", "list options"]
+  },
+  {
+    "name": "Hlife & Services",
+    "options": ["options", "list options"]
+  }
+]

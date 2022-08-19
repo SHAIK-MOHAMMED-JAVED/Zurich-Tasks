@@ -1,0 +1,13 @@
+.card {
+    border: none;
+}
+
+.card:hover {
+    border: 1px solid whitesmoke;
+    box-shadow: 5px 10px 20px grey;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
